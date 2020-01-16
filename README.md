@@ -4,6 +4,5 @@
 
 2.Exposing how choice master can be used to hijack social media account credentials without the knowledge of the victim and then                            use it for unethical practices. 
 
-3. Our main goal is to demonstrate how a hacker does the above
-  with the help of choice-master and then give the solution for it.
+3.Our main goal is to demonstrate how a hacker does the above with the help of choice-master and then give the solution for it.
 
